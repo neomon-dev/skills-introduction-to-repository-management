@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @neomon-dev
+/src/backend/database.py      @neomon-dev
+/src/backend/routers/auth.py  @neomon-dev
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @neomon-dev
